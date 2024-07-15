@@ -20,8 +20,8 @@
 				
 				<p><center><b>СВЯЗЬ С НАМИ </b><center>
 		
-		<button><b><a href="https://www.tiktok.com/@vlad5699?_t=8nWtK2z4RF7&_r=1" target="_blank">Tik Tok</a></b></button>
-		<button><b><a href="https://youtube.com/@vlad-992?si=_9kNrpqfQaRI-jB5" target="_blank">YouTube</a></b></button>
+		<b><a href="https://www.tiktok.com/@vlad5699?_t=8nWtK2z4RF7&_r=1" target="_blank">Tik Tok</a></b>
+		<b><a href="https://youtube.com/@vlad-992?si=_9kNrpqfQaRI-jB5" target="_blank">YouTube</a></b>
 		
 		<p><a href="mailto:magind000@gmail.com"><b>почта: magind000@gmail.com</b></button></a></p>
 	
