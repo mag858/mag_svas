@@ -20,20 +20,20 @@
 			<p><center><b>НАШИ ВИДЕО </b><center>	
 				<small>(кликай на них)</small>
 				
-				<p><a href="https://www.tiktok.com/@mag_industries/video/7402646242184023302?_r=1&_t=8oomeI4hKw1" target="_blank"><img src="sait/ocl.jpeg" height ="250" width = "200"></a>&emsp;
+				<p><a href="https://www.tiktok.com/@mag.industries/video/7402979061498285317?_r=1&_t=8orjjhK4EHl" target="_blank"><img src="sait/ocl.jpeg" height ="250" width = "200"></a>&emsp;
 				
-				<a href="https://www.tiktok.com/@mag_industries/video/7402583974071110918?_r=1&_t=8oomeI4hKw1" target="_blank"><img src="sait/pre.jpeg" height ="250" width = "220"></a>&emsp;
+				<a href="https://www.tiktok.com/@mag.industries/video/7402979814438604038?_r=1&_t=8orjmCa3sKk" target="_blank"><img src="sait/pre.jpeg" height ="250" width = "220"></a>&emsp;
 				
 				
 				
-				<a href="https://www.tiktok.com/@mag_industries/video/7402335857182608646?_r=1&_t=8oomeI4hKw1" target="_blank"><img src="sait/kol.jpeg" height ="250" width = "300"></a>
+				<a href="https://www.tiktok.com/@mag.industries/video/7402515993358011654?_r=1&_t=8orjnjh7L0P" target="_blank"><img src="sait/kol.jpeg" height ="250" width = "300"></a>
 				
 				</p>
 				
 				
 				<p><center><b>СВЯЗЬ С НАМИ </b><center>
 		
-		<button><b><a href="https://www.tiktok.com/@mag_industries?_t=8oomeI4hKw1&_r=1" target="_blank">Tik Tok</a></b></button>
+		<button><b><a href="https://www.tiktok.com/@mag.industries?_t=8orjRbrT9SI&_r=1" target="_blank">Tik Tok</a></b></button>
 		<button><b><a href="https://www.youtube.com/@MAGindustries-h4b" target="_blank">YouTube</a></b></button>
 		
 		<p><a href="mailto:magind000@gmail.com"><b>почта: magind000@gmail.com</b></a></p>
