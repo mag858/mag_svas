@@ -26,7 +26,7 @@
 				
 				
 				
-				<a href="https://www.tiktok.com/@mag_industries/video/7402335857182608646?_r=1&_t=8oomeI4hKw1" target="_blank"><img src="sait/колонка.jpeg" height ="250" width = "300"></a>
+				<a href="https://vm.tiktok.com/ZMh9j4yQW" target="_blank"><img src="sait/колонка.jpeg" height ="250" width = "300"></a>
 				
 				</p>
 				
