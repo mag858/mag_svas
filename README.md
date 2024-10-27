@@ -7,7 +7,7 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, connection, Tik Tok, YouTube, future">	
 	</head>
 	
-    <body style=background-color:#CCE1FE>
+    <body style="background-color:#CCE1FE">
     
     <p><b><a href="file:///Users/mihail/Desktop/MAG%20industries.html">вернуться на главную</a>&emsp;</b>
     
